@@ -78,28 +78,24 @@ ETL решения, требования и рекомендации, котор
     - 04-01 [Marketing Analytics](/marketing_analytics_students.ipynb).
     - 04-02 [Marketing Analytics vs MySQL](https://colab.research.google.com/drive/1ZFauMnc7JSRUGDEdor0EC6BAUe_YGVwt?usp=sharing).
     
-- `lecture 05`:
-    - [Business Intelligence-аналитика Data Prep & Alteryx Designer ](/lectures/lecture_05.pdf)
-    
--  Practice:
- 
-   05 : Необходимо построить в `Tableau Prep Flow`, `Alteryx Workflow`потоки данных и сохранить результат в своем `git`. Вы можете использовать данные, подключившись к БД `Postgres` или БД `My SQL`, в которую мы загружали данные. Альтернативно, можете просто повторить существующие задания из Alteryx/Tableau tutorial, чтобы понять как работает инструмент.
+- `lecture 05` File Systems:
+    - [Hadoop Distributed File System (HDFS)](lectures/2-BigData_HDFS.pdf)
+-  Practice: 
+    -  [Introduction to HDFS](https://github.com/BosenkoTM/BigDataAnalitic_Practice/tree/main/exercises/winter_semester_2021-2022/01_hadoop).
+    -  `Решение` задания [Introduction to HDFS](https://github.com/BosenkoTM/BigDataAnalitic_Practice/blob/main/solutions/winter_semester_2021-2022/01_hadoop/Exercise_1.pdf).
 
-    [Видеолекция по инструментам аналитики данных](https://www.tableau.com/support/releases/prep/2022.2.3#esdalt). 
-    Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
+- `lecture 06` Cluster Managers:
+    - [Yet Another Resource Negotiator (YARN)](lectures/3-BigData_YARN.pdf).
+    - [Hive](lectures/3-1-Hive-HiveQL.pdf).
+    - [HiveQL with practice](lectures/3-2-Hive-HiveQL.pdf).
+-  Practice: 
+    -  [Introduction to YARN + Hive](https://github.com/BosenkoTM/BigDataAnalitic_Practice/tree/main/exercises/winter_semester_2021-2022/02_hive).
+    -  `Решение` задания [Introduction to YARN + Hive](https://github.com/BosenkoTM/BigDataAnalitic_Practice/blob/main/solutions/winter_semester_2021-2022/02_hive/Exercise_2.pdf).
     
-    Дополнительные материалы для изучения:
-    
-    [Начало работы с Tableau prep](https://help.tableau.com/current/prep/en-us/prep_get_started.htm)
-    
-    [A-Practitioners-Guide-to-Tableau-prep-Builder](https://docs.yandex.ru/docs/view?tm=1665697499&tld=ru&lang=en&name=A-Practitioners-Guide-to-Tableau-prep-Builder.pdf&text=Tableau%20Prep&url=https%3A%2F%2Fresources.useready.com%2Fwp-content%2Fuploads%2F2019%2F08%2FA-Practitioners-Guide-to-Tableau-prep-Builder.pdf&lr=213&mime=pdf&l10n=ru&sign=6de6f2866532daf9d67052c949d1830f&keyno=0&nosw=1&serpParams=tm%3D1665697499%26tld%3Dru%26lang%3Den%26name%3DA-Practitioners-Guide-to-Tableau-prep-Builder.pdf%26text%3DTableau%2BPrep%26url%3Dhttps%253A%2F%2Fresources.useready.com%2Fwp-content%2Fuploads%2F2019%2F08%2FA-Practitioners-Guide-to-Tableau-prep-Builder.pdf%26lr%3D213%26mime%3Dpdf%26l10n%3Dru%26sign%3D6de6f2866532daf9d67052c949d1830f%26keyno%3D0%26nosw%3D1)
-    
-    [Начало работы с Alteryx Designer](https://help.alteryx.com/learn/learningguide.html)
-    
-- `lecture 06`:
+- `lecture 07`:
     - [Инструменты аналитики Airflow + task on lecture_06](/lectures/lecture_06_airflow_day_1.pdf)
     
--  `Practice 06`: 
+-  `Practice`: 
     -  [Live COVID-19 tracker with Airflow](https://towardsdatascience.com/your-live-covid-19-tracker-with-airflow-and-github-pages-658c3e048304).
     -  [Live COVID-19 tracker with Airflow GITHUB](https://github.com/hectoramirez/Covid19)
     
