@@ -133,6 +133,10 @@ ETL решения, требования и рекомендации, котор
 3. [Airbnb’s Airflow Versus Spotify’s Luigi](https://medium.com/better-programming/airbnbs-airflow-versus-spotify-s-luigi-bd4c7c2c0791) (English)
 4. [Data pipelines, Luigi, Airflow: everything you need to know](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7) (English)
 
+## self-study
+
+- `Семинар 1`. [Основные команды в Ubuntu](https://github.com/BosenkoTM/BigDataAnalitic_Practice/blob/main/common/docs/basic_shell_commands.md)
+- [Альтернативное практическое изучение инструментов **Big Data**](https://github.com/BosenkoTM/BigDataAnalitic_Practice#practice)
 
 ## Теоретические вопросы
 
@@ -166,10 +170,6 @@ ETL решения, требования и рекомендации, котор
 ## ТЕСТ 1. 
 [ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLSd0hfJDgqL1pNQE_np1S0V1_FVY7h_1Dvki7b_yimaj4Fnb8A/viewform?usp=sf_link)
 
-## self-study
-
-- `Семинар 1`. [Основные команды в Ubuntu](https://github.com/BosenkoTM/BigDataAnalitic_Practice/blob/main/common/docs/basic_shell_commands.md)
-- [Альтернативное практическое изучение инструментов **Big Data**](https://github.com/BosenkoTM/BigDataAnalitic_Practice#practice)
 
 ## ТЕСТ 2. Apache Spark.
 
