@@ -34,7 +34,8 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 ## Big-Data-Storage-and-Processing-Tools
 
 - `lecture 01` Intro:
-    -  [Introduction to Data analytics](/lectures/lecture_01.pdf)
+    -  [Intro](/lectures/lecture_01_1.pdf)
+    -  [Big Data Storage](/lectures/lecture_01_2.pdf)
 
 -  Practice: 
     -  01-1 [Визуализация данных из CSV-файла](https://cloud.yandex.ru/docs/datalens/tutorials/data-from-csv-visualization). [Индивидуальное задание](/practice/ex_01_1/01ex.md).
