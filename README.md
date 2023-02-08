@@ -29,7 +29,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Текущая успеваемость
 
- [АДЭУ-211](https://docs.google.com/spreadsheets/d/1jSBjDeu23q6fdkR9OyvqIYbHeZpov9XTWNaDsHRcIF4/edit?usp=sharing)
+ [АДЭУ-201]()
 
 ## Big-Data-Storage-and-Processing-Tools
 
