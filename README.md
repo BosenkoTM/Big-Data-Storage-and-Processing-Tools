@@ -163,18 +163,15 @@ ETL решения, требования и рекомендации, котор
 25.	Инструменты работы с большими данными на Графах: `Apache Giraph`, `Spark GraphX`.
 26.	Контейнеры: основные подходы при работе  в `Docker`.
 
-## ТЕСТ 1. 
-[ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLSd0hfJDgqL1pNQE_np1S0V1_FVY7h_1Dvki7b_yimaj4Fnb8A/viewform?usp=sf_link)
 
-
-## ТЕСТ 2. Apache Spark.
+## ТЕСТ 1. Apache Spark.
 
 [ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLSdD_Hl-WwPK69VGKKf0tw1vF3AgMKYQRR3w9RofcIFKlJM4YA/viewform?usp=sf_link)
 
 Вспомогательный материал:
  - [Источник 1](/books/test_books/Apache%2BZeppelin.pdf).
 
-## ТЕСТ 3.
+## ТЕСТ 2.
 [ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLSdxADzRpGOzLrVBPHwUQMt6sWIPO63nLwYt0KolAWKq3-xREQ/viewform?usp=sf_link)
 
 Вспомогательный материал:
