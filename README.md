@@ -28,10 +28,9 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     - `Pentaho`[скачать](https://disk.yandex.ru/d/iVAdHZAPliBbkQ).
     
     ## Темы курсовых проектов
-   [2023 АДЭУ-201](https://docs.google.com/spreadsheets/d/17mJ8vHLkWWFsdbiLywQUGCU_tYXByWeDP3ep_GjDQT4/edit?usp=sharing)
+   [2023 АДЭУ-201](https://docs.google.com/spreadsheets/d/1qQ1gGSHAosoHrRSMXTlpfhDtF7242_N_fOJB3kSibXE/edit?usp=sharing)
    
    Распределение студентов КР:
-   - [`АДЭУ-201`]()
    
    | ФИО  | Дата представления КП |
 | --------------| :---: |
