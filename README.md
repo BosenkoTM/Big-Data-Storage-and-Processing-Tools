@@ -27,7 +27,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
  `Свободное программное обеспечение для бизнес-анализа`:
     - `Pentaho`[скачать](https://disk.yandex.ru/d/iVAdHZAPliBbkQ).
     
-    ## Темы курсовых проектов
+   ## Темы курсовых проектов
    [2023 АДЭУ-201](https://docs.google.com/spreadsheets/d/1qQ1gGSHAosoHrRSMXTlpfhDtF7242_N_fOJB3kSibXE/edit?usp=sharing)
    
    Шаблон `Задание_кп_титульный_лист_отзыв_руководителя`
