@@ -29,11 +29,12 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     
 ## Темы курсовых проектов
   
-   [2023 АДЭУ-201](https://docs.google.com/spreadsheets/d/1qQ1gGSHAosoHrRSMXTlpfhDtF7242_N_fOJB3kSibXE/edit?usp=sharing)
+   - [2023 АДЭУ-201](https://docs.google.com/spreadsheets/d/1qQ1gGSHAosoHrRSMXTlpfhDtF7242_N_fOJB3kSibXE/edit?usp=sharing);
    
-   Шаблон `Задание_кп_титульный_лист_отзыв_руководителя`
+   - [2023 Шаблон Задание_кп_титульный_лист_отзыв_руководителя](/kp/Задание_кп_титульный_лист_отзыв_руководителя.pdf);
    
-   - [2023 АДЭУ-201](/kp/Задание_кп_титульный_лист_отзыв_руководителя.pdf)
+   - [2023 Пример задания на КП](/kp/пример_задания_на_кп-2023.pdf);
+   
    
    Распределение студентов КР:
    
