@@ -135,9 +135,9 @@ ETL решения, требования и рекомендации, котор
 - `lecture 05` File Systems:
     - [Hadoop Distributed File System (HDFS)](lectures/2-BigData_HDFS.pdf)
 -  Practice: 
-    -  [Introduction to HDFS](https://github.com/BosenkoTM/BigDataAnalitic_Practice/tree/main/exercises/winter_semester_2021-2022/01_hadoop).
+    -  Задание `05-1` [Introduction to HDFS](https://github.com/BosenkoTM/BigDataAnalitic_Practice/tree/main/exercises/winter_semester_2021-2022/01_hadoop). [Faust_1.txt](https://github.com/BosenkoTM/Big-Data-Storage-and-Processing-Tools/blob/main/practice/Faust_1.txt).
     -  `Решение` задания [Introduction to HDFS](https://github.com/BosenkoTM/BigDataAnalitic_Practice/blob/main/solutions/winter_semester_2021-2022/01_hadoop/Exercise_1.pdf).
-
+    - Задание `05-2` [Работа с командами Hadoop](https://github.com/BosenkoTM/Distributed_systems/blob/main/practice/S-3-HADOOP/2.%20Hadoop%20Lab-1.pdf).
 - `lecture 06` Cluster Managers:
     - [Yet Another Resource Negotiator (YARN)](lectures/3-BigData_YARN.pdf).
     - [Hive](lectures/3-1-Hive-HiveQL.pdf).
