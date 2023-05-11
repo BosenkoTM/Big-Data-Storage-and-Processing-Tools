@@ -41,6 +41,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
    
    - [2023 Шаблон Презентация](/kp/Пример%20презентации%202023.pptx).
 
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
    Распределение студентов КР:
    
