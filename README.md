@@ -138,22 +138,31 @@ ETL решения, требования и рекомендации, котор
     -  Задание `05-1` [Introduction to HDFS](https://github.com/BosenkoTM/BigDataAnalitic_Practice/tree/main/exercises/winter_semester_2021-2022/01_hadoop). [Faust_1.txt](https://github.com/BosenkoTM/Big-Data-Storage-and-Processing-Tools/blob/main/practice/Faust_1.txt).
     -  `Решение` задания [Introduction to HDFS](https://github.com/BosenkoTM/BigDataAnalitic_Practice/blob/main/solutions/winter_semester_2021-2022/01_hadoop/Exercise_1.pdf).
     - Задание `05-2` [Работа с командами Hadoop](https://github.com/BosenkoTM/Distributed_systems/blob/main/practice/S-3-HADOOP/2.%20Hadoop%20Lab-1.pdf).
+
 - `lecture 06` Cluster Managers:
     - [Yet Another Resource Negotiator (YARN)](lectures/3-BigData_YARN.pdf).
     - [Hive](lectures/3-1-Hive-HiveQL.pdf).
     - [HiveQL with practice](lectures/3-2-Hive-HiveQL.pdf).
+    
 -  Practice: 
     -  [Introduction to YARN + Hive](https://github.com/BosenkoTM/BigDataAnalitic_Practice/tree/main/exercises/winter_semester_2021-2022/02_hive).
     -  `Решение` задания [Introduction to YARN + Hive](https://github.com/BosenkoTM/BigDataAnalitic_Practice/blob/main/solutions/winter_semester_2021-2022/02_hive/Exercise_2.pdf).
     
 - `lecture 07`:
+    - [Введение в Apache Spark - 1]()
+    - [Введение в Apache Spark - 2]()
+
+-  Practice: 
+    - [Введение в Apache Spark](/practice/ex_7/Exercise_4.pdf)
+
+- `lecture 08`:
     - [Инструменты аналитики Airflow + task on lecture_06](/lectures/lecture_06_airflow_day_1.pdf)
     
 -  `Practice`: 
     -  [Live COVID-19 tracker with Airflow](https://towardsdatascience.com/your-live-covid-19-tracker-with-airflow-and-github-pages-658c3e048304).
     -  [Live COVID-19 tracker with Airflow GITHUB](https://github.com/hectoramirez/Covid19)
     
-- `lecture 07`:
+- `lecture 09`:
     - [Оркестр процессов обработки данных с помощью Apache Airflow](/lectures/lecture_07_airflow_day_2_orcestr.pdf)
 
 ### Дополнительные материалы для изучения
