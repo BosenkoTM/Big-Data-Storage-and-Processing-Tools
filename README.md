@@ -151,7 +151,7 @@ ETL решения, требования и рекомендации, котор
     -  `Решение` задания [Introduction to YARN + Hive](https://github.com/BosenkoTM/BigDataAnalitic_Practice/blob/main/solutions/winter_semester_2021-2022/02_hive/Exercise_2.pdf).
     
 - `lecture 07`:
-    - [Введение в Apache Spark - 1]()
+    - [Введение в Apache Spark - 1](/lectures/Лекции%207%20Краткое%20введение%20в%20Spark_PySpark-1.pdf)
     - [Введение в Apache Spark - 2]()
 
 -  Practice: 
