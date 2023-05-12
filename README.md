@@ -155,7 +155,7 @@ ETL решения, требования и рекомендации, котор
     - [Введение в Apache Spark - 2]()
 
 -  Practice: 
-    - [Введение в Apache Spark](/practice/ex_7/Exercise_4.pdf)
+    - [Введение в Apache Spark](/practice/ex_7/Exercise_07.pdf)
 
 - `lecture 08`:
     - [Инструменты аналитики Airflow + task on lecture_06](/lectures/lecture_06_airflow_day_1.pdf)
