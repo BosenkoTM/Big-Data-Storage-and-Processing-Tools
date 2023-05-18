@@ -230,11 +230,13 @@ ETL решения, требования и рекомендации, котор
 
 
 ## ТЕСТ 1. Apache Spark.
-
-[19-05-2023 ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLSdD_Hl-WwPK69VGKKf0tw1vF3AgMKYQRR3w9RofcIFKlJM4YA/viewform?usp=sf_link)
+[19-05-2023 12.45 ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLSdD_Hl-WwPK69VGKKf0tw1vF3AgMKYQRR3w9RofcIFKlJM4YA/viewform?usp=sf_link)
 
 ## ТЕСТ 2.
-[02-06-2023 ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLSdxADzRpGOzLrVBPHwUQMt6sWIPO63nLwYt0KolAWKq3-xREQ/viewform?usp=sf_link)
+[19-05-2023 14.00 ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLSdxADzRpGOzLrVBPHwUQMt6sWIPO63nLwYt0KolAWKq3-xREQ/viewform?usp=sf_link)
+
+## ТЕСТ 3.
+[02-06-2023 12.45 ССЫЛКА ДЛЯ ВХОДА]()
 
 
 ## Зачетное практическое задание по курсу  Big-Data-Storage-and-Processing-Tools
