@@ -236,7 +236,7 @@ ETL решения, требования и рекомендации, котор
 [19-05-2023 14.00 ССЫЛКА ДЛЯ ВХОДА](https://forms.gle/vL8oNnxauGAQvctH6)
 
 ## ТЕСТ 3.
-[02-06-2023 12.45 ССЫЛКА ДЛЯ ВХОДА]()
+[02-06-2023 12.45 ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLSeYABnGLOMco9braD_KUY3yUEMQ7n9KxwikydWOWOogDp0B8Q/viewform?usp=sf_link)
 
 
 ## Зачетное практическое задание по курсу  Big-Data-Storage-and-Processing-Tools
