@@ -230,7 +230,7 @@ ETL решения, требования и рекомендации, котор
 
 
 ## ТЕСТ 1. Apache Spark.
-[19-05-2023 12.45 ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLSdD_Hl-WwPK69VGKKf0tw1vF3AgMKYQRR3w9RofcIFKlJM4YA/viewform?usp=sf_link)
+[19-05-2023 12.45 ССЫЛКА ДЛЯ ВХОДА](https://forms.gle/vL8oNnxauGAQvctH6)
 
 ## ТЕСТ 2.
 [19-05-2023 14.00 ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLSdxADzRpGOzLrVBPHwUQMt6sWIPO63nLwYt0KolAWKq3-xREQ/viewform?usp=sf_link)
