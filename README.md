@@ -229,7 +229,7 @@ ETL решения, требования и рекомендации, котор
 26.	Контейнеры: основные подходы при работе  в `Docker`.
 
 
-## ТЕСТ 1. Apache Spark.
+## ТЕСТ 1.
 [19-05-2023 12.45 ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLSdxADzRpGOzLrVBPHwUQMt6sWIPO63nLwYt0KolAWKq3-xREQ/viewform?usp=sf_link)
 
 ## ТЕСТ 2.
