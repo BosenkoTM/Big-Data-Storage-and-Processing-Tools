@@ -83,6 +83,8 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 [Методические рекомендации к выполнению курсового проекта](https://disk.yandex.ru/i/6_ypM5IRQTfpBA)
 
+[Методические рекомендации по оформлению списка использованных источников](/kp/Пример%20презентации%202023.pptx)
+
 ## Текущая успеваемость
 
  [АДЭУ-201](https://docs.google.com/spreadsheets/d/1dsJ1yHZdXp9afSKG8iRc6Ks5EOJ2KJbFIs5CkqEsw-4/edit?usp=sharing)
