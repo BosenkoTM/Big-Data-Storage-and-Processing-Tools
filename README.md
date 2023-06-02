@@ -168,6 +168,9 @@ ETL решения, требования и рекомендации, котор
     
 - `lecture 09`:
     - [Оркестр процессов обработки данных с помощью Apache Airflow](/lectures/lecture_07_airflow_day_2_orcestr.pdf)
+    
+- `lecture 10`:
+    - [Введение в интеграцию данных](/lectures/lecture_09_intro_to_integration_data.pdf)
 
 ### Дополнительные материалы для изучения
 
